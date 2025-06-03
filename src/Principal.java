@@ -6,7 +6,8 @@ public class Principal {
 		System.out.println("Hola mundo ");
 
 		System.out.println("hola a todos");
-		System.out.println("rama master cambios ..");
+		System.out.println("rama 1 merge ");
+
 	}
 
 }
