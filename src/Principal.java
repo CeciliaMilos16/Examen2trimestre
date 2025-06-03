@@ -8,6 +8,7 @@ public class Principal {
 		System.out.println("hola a todos");
 		System.out.println("rama 1 merge ");
 		System.out.println("cambios en repositorio remoto");
+		System.out.println("cambios en el repositorio local");
 	}
 
 }
